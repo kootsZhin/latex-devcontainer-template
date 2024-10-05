@@ -1,0 +1,8 @@
+{
+    "latex-workshop.latex.outDir": "./latex-out",
+    "latex-workshop.formatting.latex": "latexindent",
+    "editor.defaultFormatter": "James-Yu.latex-workshop",
+    "[latex]": {
+      "editor.defaultFormatter": "James-Yu.latex-workshop"
+    }
+}
